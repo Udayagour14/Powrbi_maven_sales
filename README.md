@@ -14,3 +14,9 @@ Take the form of a star schema, with 1:many relationships between fact and dimen
 ## Add calculated measures & fields
 Create calculated columns in the sales table to pull in ‘cost’ and ‘price’ from the products table, then use those fields to calculate revenue and profit for each transaction
 Create measures to calculate the count of orders (‘total orders’), sum of revenue (‘total revenue’) and sum of profit (‘total profit’)
+
+## Build an interactive report
+Add card visuals showing ‘total orders’, ‘total revenue’ and ‘total profit’ for the current month, along with monthly trends for each metric
+Add a slicer to filter the report page by store location
+Add a bar chart showing ‘total orders’ by product category, and a line chart showing ‘total revenue’ with the date hierarchy on the x-axis.
+Assemble the charts into a logical layout and adjust formatting, alignment and polish to finalize the report as you see fit.
