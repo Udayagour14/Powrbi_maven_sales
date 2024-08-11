@@ -1,6 +1,6 @@
 # Sales DataAnalysis in PowerBI
 ## Sales &amp; inventory data for a fictitious chain of toy stores in Mexico
-
+![image alt](https://github.com/Udayagour14/Powrbi_maven_sales/blob/main/sales_image)
 ## Connect and profile the data
 Connect to the sales, products, stores, and calendar csv files.
 Review table columns, check for blank or null values, confirm that datatypes are accurately defined, and identify any primary and foreign key.
